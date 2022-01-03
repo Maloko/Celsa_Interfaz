@@ -1,0 +1,1 @@
+﻿CALL "VS_SP_ListaPersonasxTipoSAP"('${param1}')

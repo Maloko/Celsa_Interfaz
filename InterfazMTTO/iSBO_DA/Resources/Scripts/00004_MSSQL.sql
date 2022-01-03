@@ -1,0 +1,1 @@
+﻿EXEC VS_SP_ListaOrdenesCompraSAP '${param1}', '${param2}'

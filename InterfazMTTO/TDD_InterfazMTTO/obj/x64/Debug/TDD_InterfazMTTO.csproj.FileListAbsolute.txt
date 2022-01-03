@@ -1,0 +1,48 @@
+C:\Users\nmelendez\Desktop\VSMONE\InterfazSB1\Proyecto\TDD_InterfazMTTO\obj\x64\Debug\TDD_InterfazMTTO.csproj.AssemblyReference.cache
+C:\Users\nmelendez\Desktop\VSMONE\InterfazSB1\Proyecto\TDD_InterfazMTTO\obj\x64\Debug\TDD_InterfazMTTO.csproj.CoreCompileInputs.cache
+C:\Users\nmelendez\Desktop\VSMONE\InterfazSB1\Proyecto\TDD_InterfazMTTO\bin\x64\Debug\TDD_InterfazMTTO.dll
+C:\Users\nmelendez\Desktop\VSMONE\InterfazSB1\Proyecto\TDD_InterfazMTTO\bin\x64\Debug\TDD_InterfazMTTO.pdb
+C:\Users\nmelendez\Desktop\VSMONE\InterfazSB1\Proyecto\TDD_InterfazMTTO\bin\x64\Debug\InterfazMTTO.dll
+C:\Users\nmelendez\Desktop\VSMONE\InterfazSB1\Proyecto\TDD_InterfazMTTO\bin\x64\Debug\iSBO_BE.dll
+C:\Users\nmelendez\Desktop\VSMONE\InterfazSB1\Proyecto\TDD_InterfazMTTO\bin\x64\Debug\iSBO_DA.dll
+C:\Users\nmelendez\Desktop\VSMONE\InterfazSB1\Proyecto\TDD_InterfazMTTO\bin\x64\Debug\iSBO_Util.dll
+C:\Users\nmelendez\Desktop\VSMONE\InterfazSB1\Proyecto\TDD_InterfazMTTO\bin\x64\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\nmelendez\Desktop\VSMONE\InterfazSB1\Proyecto\TDD_InterfazMTTO\bin\x64\Debug\iSBO_BE.pdb
+C:\Users\nmelendez\Desktop\VSMONE\InterfazSB1\Proyecto\TDD_InterfazMTTO\bin\x64\Debug\InterfazMTTO.pdb
+C:\Users\nmelendez\Desktop\VSMONE\InterfazSB1\Proyecto\TDD_InterfazMTTO\bin\x64\Debug\iSBO_DA.pdb
+C:\Users\nmelendez\Desktop\VSMONE\InterfazSB1\Proyecto\TDD_InterfazMTTO\bin\x64\Debug\iSBO_Util.pdb
+C:\Users\nmelendez\Desktop\VSMONE\InterfazSB1\Proyecto\TDD_InterfazMTTO\obj\x64\Debug\TDD_InterfazMTTO.csproj.CopyComplete
+C:\Users\nmelendez\Desktop\VSMONE\InterfazSB1\Proyecto\TDD_InterfazMTTO\obj\x64\Debug\TDD_InterfazMTTO.dll
+C:\Users\nmelendez\Desktop\VSMONE\InterfazSB1\Proyecto\TDD_InterfazMTTO\obj\x64\Debug\TDD_InterfazMTTO.pdb
+C:\Users\vsperu\Desktop\VSMONE\wetransfer_codigo-fuente_2021-12-01_2154\VSMONE_RECOMPILADO EN 64 bits\CodigoFuente\InterfazSB1\Proyecto\TDD_InterfazMTTO\bin\x64\Debug\TDD_InterfazMTTO.dll
+C:\Users\vsperu\Desktop\VSMONE\wetransfer_codigo-fuente_2021-12-01_2154\VSMONE_RECOMPILADO EN 64 bits\CodigoFuente\InterfazSB1\Proyecto\TDD_InterfazMTTO\bin\x64\Debug\TDD_InterfazMTTO.pdb
+C:\Users\vsperu\Desktop\VSMONE\wetransfer_codigo-fuente_2021-12-01_2154\VSMONE_RECOMPILADO EN 64 bits\CodigoFuente\InterfazSB1\Proyecto\TDD_InterfazMTTO\bin\x64\Debug\InterfazMTTO.dll
+C:\Users\vsperu\Desktop\VSMONE\wetransfer_codigo-fuente_2021-12-01_2154\VSMONE_RECOMPILADO EN 64 bits\CodigoFuente\InterfazSB1\Proyecto\TDD_InterfazMTTO\bin\x64\Debug\iSBO_BE.dll
+C:\Users\vsperu\Desktop\VSMONE\wetransfer_codigo-fuente_2021-12-01_2154\VSMONE_RECOMPILADO EN 64 bits\CodigoFuente\InterfazSB1\Proyecto\TDD_InterfazMTTO\bin\x64\Debug\iSBO_DA.dll
+C:\Users\vsperu\Desktop\VSMONE\wetransfer_codigo-fuente_2021-12-01_2154\VSMONE_RECOMPILADO EN 64 bits\CodigoFuente\InterfazSB1\Proyecto\TDD_InterfazMTTO\bin\x64\Debug\iSBO_Util.dll
+C:\Users\vsperu\Desktop\VSMONE\wetransfer_codigo-fuente_2021-12-01_2154\VSMONE_RECOMPILADO EN 64 bits\CodigoFuente\InterfazSB1\Proyecto\TDD_InterfazMTTO\bin\x64\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\vsperu\Desktop\VSMONE\wetransfer_codigo-fuente_2021-12-01_2154\VSMONE_RECOMPILADO EN 64 bits\CodigoFuente\InterfazSB1\Proyecto\TDD_InterfazMTTO\bin\x64\Debug\iSBO_BE.pdb
+C:\Users\vsperu\Desktop\VSMONE\wetransfer_codigo-fuente_2021-12-01_2154\VSMONE_RECOMPILADO EN 64 bits\CodigoFuente\InterfazSB1\Proyecto\TDD_InterfazMTTO\bin\x64\Debug\InterfazMTTO.pdb
+C:\Users\vsperu\Desktop\VSMONE\wetransfer_codigo-fuente_2021-12-01_2154\VSMONE_RECOMPILADO EN 64 bits\CodigoFuente\InterfazSB1\Proyecto\TDD_InterfazMTTO\bin\x64\Debug\iSBO_DA.pdb
+C:\Users\vsperu\Desktop\VSMONE\wetransfer_codigo-fuente_2021-12-01_2154\VSMONE_RECOMPILADO EN 64 bits\CodigoFuente\InterfazSB1\Proyecto\TDD_InterfazMTTO\bin\x64\Debug\iSBO_Util.pdb
+C:\Users\vsperu\Desktop\VSMONE\wetransfer_codigo-fuente_2021-12-01_2154\VSMONE_RECOMPILADO EN 64 bits\CodigoFuente\InterfazSB1\Proyecto\TDD_InterfazMTTO\obj\x64\Debug\TDD_InterfazMTTO.csproj.AssemblyReference.cache
+C:\Users\vsperu\Desktop\VSMONE\wetransfer_codigo-fuente_2021-12-01_2154\VSMONE_RECOMPILADO EN 64 bits\CodigoFuente\InterfazSB1\Proyecto\TDD_InterfazMTTO\obj\x64\Debug\TDD_InterfazMTTO.csproj.CoreCompileInputs.cache
+C:\Users\vsperu\Desktop\VSMONE\wetransfer_codigo-fuente_2021-12-01_2154\VSMONE_RECOMPILADO EN 64 bits\CodigoFuente\InterfazSB1\Proyecto\TDD_InterfazMTTO\obj\x64\Debug\TDD_InterfazMTTO.csproj.CopyComplete
+C:\Users\vsperu\Desktop\VSMONE\wetransfer_codigo-fuente_2021-12-01_2154\VSMONE_RECOMPILADO EN 64 bits\CodigoFuente\InterfazSB1\Proyecto\TDD_InterfazMTTO\obj\x64\Debug\TDD_InterfazMTTO.dll
+C:\Users\vsperu\Desktop\VSMONE\wetransfer_codigo-fuente_2021-12-01_2154\VSMONE_RECOMPILADO EN 64 bits\CodigoFuente\InterfazSB1\Proyecto\TDD_InterfazMTTO\obj\x64\Debug\TDD_InterfazMTTO.pdb
+D:\Ventura\Repositorios\InterfazMTTO\InterfazMTTO\TDD_InterfazMTTO\obj\x64\Debug\TDD_InterfazMTTO.csproj.AssemblyReference.cache
+D:\Ventura\Repositorios\InterfazMTTO\InterfazMTTO\TDD_InterfazMTTO\obj\x64\Debug\TDD_InterfazMTTO.csproj.CoreCompileInputs.cache
+D:\Ventura\Repositorios\InterfazMTTO\InterfazMTTO\TDD_InterfazMTTO\bin\x64\Debug\TDD_InterfazMTTO.dll
+D:\Ventura\Repositorios\InterfazMTTO\InterfazMTTO\TDD_InterfazMTTO\bin\x64\Debug\TDD_InterfazMTTO.pdb
+D:\Ventura\Repositorios\InterfazMTTO\InterfazMTTO\TDD_InterfazMTTO\bin\x64\Debug\InterfazMTTO.dll
+D:\Ventura\Repositorios\InterfazMTTO\InterfazMTTO\TDD_InterfazMTTO\bin\x64\Debug\iSBO_BE.dll
+D:\Ventura\Repositorios\InterfazMTTO\InterfazMTTO\TDD_InterfazMTTO\bin\x64\Debug\iSBO_DA.dll
+D:\Ventura\Repositorios\InterfazMTTO\InterfazMTTO\TDD_InterfazMTTO\bin\x64\Debug\iSBO_Util.dll
+D:\Ventura\Repositorios\InterfazMTTO\InterfazMTTO\TDD_InterfazMTTO\bin\x64\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Ventura\Repositorios\InterfazMTTO\InterfazMTTO\TDD_InterfazMTTO\bin\x64\Debug\iSBO_BE.pdb
+D:\Ventura\Repositorios\InterfazMTTO\InterfazMTTO\TDD_InterfazMTTO\bin\x64\Debug\InterfazMTTO.pdb
+D:\Ventura\Repositorios\InterfazMTTO\InterfazMTTO\TDD_InterfazMTTO\bin\x64\Debug\iSBO_DA.pdb
+D:\Ventura\Repositorios\InterfazMTTO\InterfazMTTO\TDD_InterfazMTTO\bin\x64\Debug\iSBO_Util.pdb
+D:\Ventura\Repositorios\InterfazMTTO\InterfazMTTO\TDD_InterfazMTTO\obj\x64\Debug\TDD_InterfazMTTO.csproj.CopyComplete
+D:\Ventura\Repositorios\InterfazMTTO\InterfazMTTO\TDD_InterfazMTTO\obj\x64\Debug\TDD_InterfazMTTO.dll
+D:\Ventura\Repositorios\InterfazMTTO\InterfazMTTO\TDD_InterfazMTTO\obj\x64\Debug\TDD_InterfazMTTO.pdb

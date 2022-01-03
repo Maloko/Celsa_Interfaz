@@ -1,0 +1,194 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Errores>
+  <Error>
+    <ResultadoRetorno>0</ResultadoRetorno>
+    <CodigoErrorUsuario>000</CodigoErrorUsuario>
+    <DescripcionErrorUsuario>Operacion OK</DescripcionErrorUsuario>
+  </Error>
+  <Error>
+    <ResultadoRetorno>-9</ResultadoRetorno>
+    <CodigoErrorUsuario>999</CodigoErrorUsuario>
+    <DescripcionErrorUsuario>Se produjo un error interno del sistema.</DescripcionErrorUsuario>
+  </Error>
+  <Error>
+    <ResultadoRetorno>-3</ResultadoRetorno>
+    <CodigoErrorUsuario>993</CodigoErrorUsuario>
+    <DescripcionErrorUsuario>La consulta no obtuvo resultados.</DescripcionErrorUsuario>
+  </Error>
+  <Error>
+    <ResultadoRetorno>-2</ResultadoRetorno>
+    <CodigoErrorUsuario>992</CodigoErrorUsuario>
+    <DescripcionErrorUsuario>Se produjo un error en la operación. Error SAP SDK: </DescripcionErrorUsuario>
+  </Error>
+  <Error>
+    <ResultadoRetorno>901</ResultadoRetorno>
+    <CodigoErrorUsuario>901</CodigoErrorUsuario>
+    <DescripcionErrorUsuario>El Tipo de Articulo no existe.</DescripcionErrorUsuario>
+  </Error>
+  <Error>
+    <ResultadoRetorno>902</ResultadoRetorno>
+    <CodigoErrorUsuario>902</CodigoErrorUsuario>
+    <DescripcionErrorUsuario>El Tipo de Articulo se encuentra vacio.</DescripcionErrorUsuario>
+  </Error>
+  <Error>
+    <ResultadoRetorno>903</ResultadoRetorno>
+    <CodigoErrorUsuario>903</CodigoErrorUsuario>
+    <DescripcionErrorUsuario>El Codigo de Articulo se encuentra vacio.</DescripcionErrorUsuario>
+  </Error>
+  <Error>
+    <ResultadoRetorno>904</ResultadoRetorno>
+    <CodigoErrorUsuario>904</CodigoErrorUsuario>
+    <DescripcionErrorUsuario>El Almacén de Salida se encuentra vacio.</DescripcionErrorUsuario>
+  </Error>
+  <Error>
+    <ResultadoRetorno>905</ResultadoRetorno>
+    <CodigoErrorUsuario>905</CodigoErrorUsuario>
+    <DescripcionErrorUsuario>La cantidad de salida se encuentra vacia.</DescripcionErrorUsuario>
+  </Error>
+  <Error>
+    <ResultadoRetorno>906</ResultadoRetorno>
+    <CodigoErrorUsuario>906</CodigoErrorUsuario>
+    <DescripcionErrorUsuario>El Tipo de Persona no existe.</DescripcionErrorUsuario>
+  </Error>
+  <Error>
+    <ResultadoRetorno>907</ResultadoRetorno>
+    <CodigoErrorUsuario>907</CodigoErrorUsuario>
+    <DescripcionErrorUsuario>El Tipo de Persona se encuentra vacio.</DescripcionErrorUsuario>
+  </Error>
+  <Error>
+    <ResultadoRetorno>908</ResultadoRetorno>
+    <CodigoErrorUsuario>908</CodigoErrorUsuario>
+    <DescripcionErrorUsuario>El Codigo de Proveedor se encuentra vacio.</DescripcionErrorUsuario>
+  </Error>
+  <Error>
+    <ResultadoRetorno>909</ResultadoRetorno>
+    <CodigoErrorUsuario>909</CodigoErrorUsuario>
+    <DescripcionErrorUsuario>El Indicador de Mantenimiento no es correcto de acuerdo a los valores permitidos (Y/N).</DescripcionErrorUsuario>
+  </Error>
+  <Error>
+    <ResultadoRetorno>910</ResultadoRetorno>
+    <CodigoErrorUsuario>910</CodigoErrorUsuario>
+    <DescripcionErrorUsuario>El Indicador de Mantenimiento se encuentra vacio.</DescripcionErrorUsuario>
+  </Error>
+  <Error>
+    <ResultadoRetorno>911</ResultadoRetorno>
+    <CodigoErrorUsuario>911</CodigoErrorUsuario>
+    <DescripcionErrorUsuario>El Nro. Orden de Compra se encuentra vacio.</DescripcionErrorUsuario>
+  </Error>
+  <Error>
+    <ResultadoRetorno>912</ResultadoRetorno>
+    <CodigoErrorUsuario>912</CodigoErrorUsuario>
+    <DescripcionErrorUsuario>El Nro. Orden de Trabajo se encuentra vacio.</DescripcionErrorUsuario>
+  </Error>
+  <Error>
+    <ResultadoRetorno>913</ResultadoRetorno>
+    <CodigoErrorUsuario>913</CodigoErrorUsuario>
+    <DescripcionErrorUsuario>La Fecha del Documento se encuentra vacio.</DescripcionErrorUsuario>
+  </Error>
+  <Error>
+    <ResultadoRetorno>914</ResultadoRetorno>
+    <CodigoErrorUsuario>914</CodigoErrorUsuario>
+    <DescripcionErrorUsuario>El Numero de Linea del documento se encuentra vacio.</DescripcionErrorUsuario>
+  </Error>
+  <Error>
+    <ResultadoRetorno>915</ResultadoRetorno>
+    <CodigoErrorUsuario>915</CodigoErrorUsuario>
+    <DescripcionErrorUsuario>El Indicador de Proveedor no existe.</DescripcionErrorUsuario>
+  </Error>
+  <Error>
+    <ResultadoRetorno>916</ResultadoRetorno>
+    <CodigoErrorUsuario>916</CodigoErrorUsuario>
+    <DescripcionErrorUsuario>El Indicador de Proveedor se encuentra vacio.</DescripcionErrorUsuario>
+  </Error>
+  <Error>
+    <ResultadoRetorno>917</ResultadoRetorno>
+    <CodigoErrorUsuario>917</CodigoErrorUsuario>
+    <DescripcionErrorUsuario>La Fecha del Documento es mayor a la fecha actual.</DescripcionErrorUsuario>
+  </Error>
+  <Error>
+    <ResultadoRetorno>918</ResultadoRetorno>
+    <CodigoErrorUsuario>918</CodigoErrorUsuario>
+    <DescripcionErrorUsuario>La cantidad solicitada se encuentra vacio.</DescripcionErrorUsuario>
+  </Error>
+  <Error>
+    <ResultadoRetorno>919</ResultadoRetorno>
+    <CodigoErrorUsuario>919</CodigoErrorUsuario>
+    <DescripcionErrorUsuario>El Nro. Solicitud de Transferencia se encuentra vacio.</DescripcionErrorUsuario>
+  </Error>
+  <Error>
+    <ResultadoRetorno>920</ResultadoRetorno>
+    <CodigoErrorUsuario>920</CodigoErrorUsuario>
+    <DescripcionErrorUsuario>Los parametros de conexion presenta información faltante.</DescripcionErrorUsuario>
+  </Error>
+  <Error>
+    <ResultadoRetorno>921</ResultadoRetorno>
+    <CodigoErrorUsuario>921</CodigoErrorUsuario>
+    <DescripcionErrorUsuario>El Tipo de Unidad de Control se encuentra vacio.</DescripcionErrorUsuario>
+  </Error>
+  <Error>
+    <ResultadoRetorno>922</ResultadoRetorno>
+    <CodigoErrorUsuario>922</CodigoErrorUsuario>
+    <DescripcionErrorUsuario>El Codigo de la Unidad de Control se encuentra vacio.</DescripcionErrorUsuario>
+  </Error>
+  <Error>
+    <ResultadoRetorno>923</ResultadoRetorno>
+    <CodigoErrorUsuario>923</CodigoErrorUsuario>
+    <DescripcionErrorUsuario>El registro presenta datos faltantes.</DescripcionErrorUsuario>
+  </Error>
+  <Error>
+    <ResultadoRetorno>924</ResultadoRetorno>
+    <CodigoErrorUsuario>924</CodigoErrorUsuario>
+    <DescripcionErrorUsuario>El Indicador de Existencia no es correcto de acuerdo a los valores permitidos (Y/N).</DescripcionErrorUsuario>
+  </Error>
+  <Error>
+    <ResultadoRetorno>925</ResultadoRetorno>
+    <CodigoErrorUsuario>925</CodigoErrorUsuario>
+    <DescripcionErrorUsuario>El Indicador de Existencia se encuentra vacio.</DescripcionErrorUsuario>
+  </Error>
+  <Error>
+    <ResultadoRetorno>926</ResultadoRetorno>
+    <CodigoErrorUsuario>926</CodigoErrorUsuario>
+    <DescripcionErrorUsuario>El Usuario se encuentra vacio.</DescripcionErrorUsuario>
+  </Error>
+  <Error>
+    <ResultadoRetorno>927</ResultadoRetorno>
+    <CodigoErrorUsuario>927</CodigoErrorUsuario>
+    <DescripcionErrorUsuario>La clave del Usuario se encuentra vacio.</DescripcionErrorUsuario>
+  </Error>
+  <Error>
+    <ResultadoRetorno>928</ResultadoRetorno>
+    <CodigoErrorUsuario>928</CodigoErrorUsuario>
+    <DescripcionErrorUsuario>El Almacen de Entrada se encuentra vacio.</DescripcionErrorUsuario>
+  </Error>
+  <Error>
+    <ResultadoRetorno>929</ResultadoRetorno>
+    <CodigoErrorUsuario>929</CodigoErrorUsuario>
+    <DescripcionErrorUsuario>El Tipo de Operación se encuentra vacio.</DescripcionErrorUsuario>
+  </Error>
+  <Error>
+    <ResultadoRetorno>930</ResultadoRetorno>
+    <CodigoErrorUsuario>930</CodigoErrorUsuario>
+    <DescripcionErrorUsuario>La Cuenta Contable se encuentra vacia.</DescripcionErrorUsuario>
+  </Error>
+  <Error>
+    <ResultadoRetorno>931</ResultadoRetorno>
+    <CodigoErrorUsuario>931</CodigoErrorUsuario>
+    <DescripcionErrorUsuario>La Razon Social se encuentra vacia.</DescripcionErrorUsuario>
+  </Error>
+  <Error>
+    <ResultadoRetorno>932</ResultadoRetorno>
+    <CodigoErrorUsuario>932</CodigoErrorUsuario>
+    <DescripcionErrorUsuario>El RUC se encuentra vacio.</DescripcionErrorUsuario>
+  </Error>
+  <Error>
+    <ResultadoRetorno>993</ResultadoRetorno>
+    <CodigoErrorUsuario>993</CodigoErrorUsuario>
+    <DescripcionErrorUsuario>El componente no se encuentra asignado al almacén solicitado.</DescripcionErrorUsuario>
+  </Error>
+	<Error>
+		<ResultadoRetorno>933</ResultadoRetorno>
+		<CodigoErrorUsuario>933</CodigoErrorUsuario>
+		<DescripcionErrorUsuario>Ingrese el tipo de cambio de hoy en Sap</DescripcionErrorUsuario>
+	</Error>
+</Errores>
+

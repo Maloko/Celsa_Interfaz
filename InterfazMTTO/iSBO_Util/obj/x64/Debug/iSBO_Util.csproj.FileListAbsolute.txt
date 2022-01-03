@@ -1,0 +1,48 @@
+C:\Users\nmelendez\Desktop\VSMONE\InterfazSB1\Proyecto\iSBO_Util\bin\x64\Debug\iSBO_Util.dll
+C:\Users\nmelendez\Desktop\VSMONE\InterfazSB1\Proyecto\iSBO_Util\bin\x64\Debug\iSBO_Util.pdb
+C:\Users\nmelendez\Desktop\VSMONE\InterfazSB1\Proyecto\iSBO_Util\bin\x64\Debug\iSBO_BE.dll
+C:\Users\nmelendez\Desktop\VSMONE\InterfazSB1\Proyecto\iSBO_Util\bin\x64\Debug\iSBO_BE.pdb
+C:\Users\nmelendez\Desktop\VSMONE\InterfazSB1\Proyecto\iSBO_Util\obj\x64\Debug\iSBO_Util.csproj.AssemblyReference.cache
+C:\Users\nmelendez\Desktop\VSMONE\InterfazSB1\Proyecto\iSBO_Util\obj\x64\Debug\iSBO_Util.csproj.ResolveComReference.cache
+C:\Users\nmelendez\Desktop\VSMONE\InterfazSB1\Proyecto\iSBO_Util\obj\x64\Debug\iSBO_Util.csproj.CoreCompileInputs.cache
+C:\Users\nmelendez\Desktop\VSMONE\InterfazSB1\Proyecto\iSBO_Util\obj\x64\Debug\iSBO_Util.csproj.CopyComplete
+C:\Users\nmelendez\Desktop\VSMONE\InterfazSB1\Proyecto\iSBO_Util\obj\x64\Debug\iSBO_Util.dll
+C:\Users\nmelendez\Desktop\VSMONE\InterfazSB1\Proyecto\iSBO_Util\obj\x64\Debug\iSBO_Util.pdb
+C:\Users\nmelendez\Desktop\VSMONE\InterfazSB1\Proyecto\iSBO_Util\obj\x64\Debug\Interop.SAPbobsCOM.dll
+C:\Users\nmelendez\Desktop\VSMONE\InterfazSB1\Proyecto\iSBO_Util\obj\x64\Debug\Interop.SAPbouiCOM.dll
+C:\Users\vsperu\Desktop\VSMONE\wetransfer_codigo-fuente_2021-12-01_2154\VSMONE_RECOMPILADO EN 64 bits\CodigoFuente\InterfazSB1\Proyecto\iSBO_Util\bin\x64\Debug\iSBO_Util.dll
+C:\Users\vsperu\Desktop\VSMONE\wetransfer_codigo-fuente_2021-12-01_2154\VSMONE_RECOMPILADO EN 64 bits\CodigoFuente\InterfazSB1\Proyecto\iSBO_Util\bin\x64\Debug\iSBO_Util.pdb
+C:\Users\vsperu\Desktop\VSMONE\wetransfer_codigo-fuente_2021-12-01_2154\VSMONE_RECOMPILADO EN 64 bits\CodigoFuente\InterfazSB1\Proyecto\iSBO_Util\bin\x64\Debug\iSBO_BE.dll
+C:\Users\vsperu\Desktop\VSMONE\wetransfer_codigo-fuente_2021-12-01_2154\VSMONE_RECOMPILADO EN 64 bits\CodigoFuente\InterfazSB1\Proyecto\iSBO_Util\bin\x64\Debug\iSBO_BE.pdb
+C:\Users\vsperu\Desktop\VSMONE\wetransfer_codigo-fuente_2021-12-01_2154\VSMONE_RECOMPILADO EN 64 bits\CodigoFuente\InterfazSB1\Proyecto\iSBO_Util\obj\x64\Debug\iSBO_Util.csproj.AssemblyReference.cache
+C:\Users\vsperu\Desktop\VSMONE\wetransfer_codigo-fuente_2021-12-01_2154\VSMONE_RECOMPILADO EN 64 bits\CodigoFuente\InterfazSB1\Proyecto\iSBO_Util\obj\x64\Debug\Interop.SAPbobsCOM.dll
+C:\Users\vsperu\Desktop\VSMONE\wetransfer_codigo-fuente_2021-12-01_2154\VSMONE_RECOMPILADO EN 64 bits\CodigoFuente\InterfazSB1\Proyecto\iSBO_Util\obj\x64\Debug\Interop.SAPbouiCOM.dll
+C:\Users\vsperu\Desktop\VSMONE\wetransfer_codigo-fuente_2021-12-01_2154\VSMONE_RECOMPILADO EN 64 bits\CodigoFuente\InterfazSB1\Proyecto\iSBO_Util\obj\x64\Debug\iSBO_Util.csproj.ResolveComReference.cache
+C:\Users\vsperu\Desktop\VSMONE\wetransfer_codigo-fuente_2021-12-01_2154\VSMONE_RECOMPILADO EN 64 bits\CodigoFuente\InterfazSB1\Proyecto\iSBO_Util\obj\x64\Debug\iSBO_Util.csproj.CoreCompileInputs.cache
+C:\Users\vsperu\Desktop\VSMONE\wetransfer_codigo-fuente_2021-12-01_2154\VSMONE_RECOMPILADO EN 64 bits\CodigoFuente\InterfazSB1\Proyecto\iSBO_Util\obj\x64\Debug\iSBO_Util.csproj.CopyComplete
+C:\Users\vsperu\Desktop\VSMONE\wetransfer_codigo-fuente_2021-12-01_2154\VSMONE_RECOMPILADO EN 64 bits\CodigoFuente\InterfazSB1\Proyecto\iSBO_Util\obj\x64\Debug\iSBO_Util.dll
+C:\Users\vsperu\Desktop\VSMONE\wetransfer_codigo-fuente_2021-12-01_2154\VSMONE_RECOMPILADO EN 64 bits\CodigoFuente\InterfazSB1\Proyecto\iSBO_Util\obj\x64\Debug\iSBO_Util.pdb
+C:\Users\vsperu\Desktop\VSMONE\COPIA PROYECTOS\InterfazSB1\Proyecto\iSBO_Util\bin\x64\Debug\iSBO_Util.dll
+C:\Users\vsperu\Desktop\VSMONE\COPIA PROYECTOS\InterfazSB1\Proyecto\iSBO_Util\bin\x64\Debug\iSBO_Util.pdb
+C:\Users\vsperu\Desktop\VSMONE\COPIA PROYECTOS\InterfazSB1\Proyecto\iSBO_Util\bin\x64\Debug\iSBO_BE.dll
+C:\Users\vsperu\Desktop\VSMONE\COPIA PROYECTOS\InterfazSB1\Proyecto\iSBO_Util\bin\x64\Debug\iSBO_BE.pdb
+C:\Users\vsperu\Desktop\VSMONE\COPIA PROYECTOS\InterfazSB1\Proyecto\iSBO_Util\obj\x64\Debug\iSBO_Util.csproj.AssemblyReference.cache
+C:\Users\vsperu\Desktop\VSMONE\COPIA PROYECTOS\InterfazSB1\Proyecto\iSBO_Util\obj\x64\Debug\Interop.SAPbobsCOM.dll
+C:\Users\vsperu\Desktop\VSMONE\COPIA PROYECTOS\InterfazSB1\Proyecto\iSBO_Util\obj\x64\Debug\Interop.SAPbouiCOM.dll
+C:\Users\vsperu\Desktop\VSMONE\COPIA PROYECTOS\InterfazSB1\Proyecto\iSBO_Util\obj\x64\Debug\iSBO_Util.csproj.ResolveComReference.cache
+C:\Users\vsperu\Desktop\VSMONE\COPIA PROYECTOS\InterfazSB1\Proyecto\iSBO_Util\obj\x64\Debug\iSBO_Util.csproj.CoreCompileInputs.cache
+C:\Users\vsperu\Desktop\VSMONE\COPIA PROYECTOS\InterfazSB1\Proyecto\iSBO_Util\obj\x64\Debug\iSBO_Util.csproj.CopyComplete
+C:\Users\vsperu\Desktop\VSMONE\COPIA PROYECTOS\InterfazSB1\Proyecto\iSBO_Util\obj\x64\Debug\iSBO_Util.dll
+C:\Users\vsperu\Desktop\VSMONE\COPIA PROYECTOS\InterfazSB1\Proyecto\iSBO_Util\obj\x64\Debug\iSBO_Util.pdb
+D:\Ventura\Repositorios\InterfazMTTO\InterfazMTTO\iSBO_Util\obj\x64\Debug\iSBO_Util.csproj.AssemblyReference.cache
+D:\Ventura\Repositorios\InterfazMTTO\InterfazMTTO\iSBO_Util\obj\x64\Debug\Interop.SAPbobsCOM.dll
+D:\Ventura\Repositorios\InterfazMTTO\InterfazMTTO\iSBO_Util\obj\x64\Debug\Interop.SAPbouiCOM.dll
+D:\Ventura\Repositorios\InterfazMTTO\InterfazMTTO\iSBO_Util\obj\x64\Debug\iSBO_Util.csproj.ResolveComReference.cache
+D:\Ventura\Repositorios\InterfazMTTO\InterfazMTTO\iSBO_Util\obj\x64\Debug\iSBO_Util.csproj.CoreCompileInputs.cache
+D:\Ventura\Repositorios\InterfazMTTO\InterfazMTTO\iSBO_Util\bin\x64\Debug\iSBO_Util.dll
+D:\Ventura\Repositorios\InterfazMTTO\InterfazMTTO\iSBO_Util\bin\x64\Debug\iSBO_Util.pdb
+D:\Ventura\Repositorios\InterfazMTTO\InterfazMTTO\iSBO_Util\bin\x64\Debug\iSBO_BE.dll
+D:\Ventura\Repositorios\InterfazMTTO\InterfazMTTO\iSBO_Util\bin\x64\Debug\iSBO_BE.pdb
+D:\Ventura\Repositorios\InterfazMTTO\InterfazMTTO\iSBO_Util\obj\x64\Debug\iSBO_Util.csproj.CopyComplete
+D:\Ventura\Repositorios\InterfazMTTO\InterfazMTTO\iSBO_Util\obj\x64\Debug\iSBO_Util.dll
+D:\Ventura\Repositorios\InterfazMTTO\InterfazMTTO\iSBO_Util\obj\x64\Debug\iSBO_Util.pdb

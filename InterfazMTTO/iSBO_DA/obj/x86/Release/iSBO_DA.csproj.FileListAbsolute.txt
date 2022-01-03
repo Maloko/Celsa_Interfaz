@@ -1,0 +1,43 @@
+C:\SVN\Producto\ZZ\ZZX3MNT\InterfaceSB1\trunk\Fuentes\Proyecto\iSBO_DA\bin\Release\iSBO_DA.dll
+C:\SVN\Producto\ZZ\ZZX3MNT\InterfaceSB1\trunk\Fuentes\Proyecto\iSBO_DA\bin\Release\iSBO_DA.pdb
+C:\SVN\Producto\ZZ\ZZX3MNT\InterfaceSB1\trunk\Fuentes\Proyecto\iSBO_DA\bin\Release\iSBO_BE.dll
+C:\SVN\Producto\ZZ\ZZX3MNT\InterfaceSB1\trunk\Fuentes\Proyecto\iSBO_DA\bin\Release\iSBO_Util.dll
+C:\SVN\Producto\ZZ\ZZX3MNT\InterfaceSB1\trunk\Fuentes\Proyecto\iSBO_DA\bin\Release\iSBO_BE.pdb
+C:\SVN\Producto\ZZ\ZZX3MNT\InterfaceSB1\trunk\Fuentes\Proyecto\iSBO_DA\bin\Release\iSBO_Util.pdb
+C:\SVN\Producto\ZZ\ZZX3MNT\InterfaceSB1\trunk\Fuentes\Proyecto\iSBO_DA\obj\x86\Release\iSBO_DA.csprojResolveAssemblyReference.cache
+C:\SVN\Producto\ZZ\ZZX3MNT\InterfaceSB1\trunk\Fuentes\Proyecto\iSBO_DA\obj\x86\Release\Interop.SAPbobsCOM.dll
+C:\SVN\Producto\ZZ\ZZX3MNT\InterfaceSB1\trunk\Fuentes\Proyecto\iSBO_DA\obj\x86\Release\iSBO_DA.csproj.ResolveComReference.cache
+C:\SVN\Producto\ZZ\ZZX3MNT\InterfaceSB1\trunk\Fuentes\Proyecto\iSBO_DA\obj\x86\Release\iSBO_DA.dll
+C:\SVN\Producto\ZZ\ZZX3MNT\InterfaceSB1\trunk\Fuentes\Proyecto\iSBO_DA\obj\x86\Release\iSBO_DA.pdb
+C:\SVN\Producto\ZZ\ZZX3MNT\InterfaceSB1\branches\2.00.0.0000\Fuentes\Proyecto\iSBO_DA\bin\Release\iSBO_DA.dll
+C:\SVN\Producto\ZZ\ZZX3MNT\InterfaceSB1\branches\2.00.0.0000\Fuentes\Proyecto\iSBO_DA\bin\Release\iSBO_DA.pdb
+C:\SVN\Producto\ZZ\ZZX3MNT\InterfaceSB1\branches\2.00.0.0000\Fuentes\Proyecto\iSBO_DA\bin\Release\iSBO_BE.dll
+C:\SVN\Producto\ZZ\ZZX3MNT\InterfaceSB1\branches\2.00.0.0000\Fuentes\Proyecto\iSBO_DA\bin\Release\iSBO_Util.dll
+C:\SVN\Producto\ZZ\ZZX3MNT\InterfaceSB1\branches\2.00.0.0000\Fuentes\Proyecto\iSBO_DA\bin\Release\iSBO_BE.pdb
+C:\SVN\Producto\ZZ\ZZX3MNT\InterfaceSB1\branches\2.00.0.0000\Fuentes\Proyecto\iSBO_DA\bin\Release\iSBO_Util.pdb
+C:\SVN\Producto\ZZ\ZZX3MNT\InterfaceSB1\branches\2.00.0.0000\Fuentes\Proyecto\iSBO_DA\obj\x86\Release\iSBO_DA.csprojResolveAssemblyReference.cache
+C:\SVN\Producto\ZZ\ZZX3MNT\InterfaceSB1\branches\2.00.0.0000\Fuentes\Proyecto\iSBO_DA\obj\x86\Release\Interop.SAPbobsCOM.dll
+C:\SVN\Producto\ZZ\ZZX3MNT\InterfaceSB1\branches\2.00.0.0000\Fuentes\Proyecto\iSBO_DA\obj\x86\Release\iSBO_DA.csproj.ResolveComReference.cache
+C:\SVN\Producto\ZZ\ZZX3MNT\InterfaceSB1\branches\2.00.0.0000\Fuentes\Proyecto\iSBO_DA\obj\x86\Release\iSBO_DA.dll
+C:\SVN\Producto\ZZ\ZZX3MNT\InterfaceSB1\branches\2.00.0.0000\Fuentes\Proyecto\iSBO_DA\obj\x86\Release\iSBO_DA.pdb
+C:\Users\USER\Documents\SAP\_svn peru\ZZX3MNT\InterfaceSB1\branches\2.00.0.0000\Fuentes\Proyecto\iSBO_DA\bin\Release\iSBO_DA.dll
+C:\Users\USER\Documents\SAP\_svn peru\ZZX3MNT\InterfaceSB1\branches\2.00.0.0000\Fuentes\Proyecto\iSBO_DA\bin\Release\iSBO_DA.pdb
+C:\Users\USER\Documents\SAP\_svn peru\ZZX3MNT\InterfaceSB1\branches\2.00.0.0000\Fuentes\Proyecto\iSBO_DA\bin\Release\iSBO_BE.dll
+C:\Users\USER\Documents\SAP\_svn peru\ZZX3MNT\InterfaceSB1\branches\2.00.0.0000\Fuentes\Proyecto\iSBO_DA\bin\Release\iSBO_Util.dll
+C:\Users\USER\Documents\SAP\_svn peru\ZZX3MNT\InterfaceSB1\branches\2.00.0.0000\Fuentes\Proyecto\iSBO_DA\bin\Release\iSBO_BE.pdb
+C:\Users\USER\Documents\SAP\_svn peru\ZZX3MNT\InterfaceSB1\branches\2.00.0.0000\Fuentes\Proyecto\iSBO_DA\bin\Release\iSBO_Util.pdb
+C:\Users\USER\Documents\SAP\_svn peru\ZZX3MNT\InterfaceSB1\branches\2.00.0.0000\Fuentes\Proyecto\iSBO_DA\obj\x86\Release\iSBO_DA.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\SAP\_svn peru\ZZX3MNT\InterfaceSB1\branches\2.00.0.0000\Fuentes\Proyecto\iSBO_DA\obj\x86\Release\Interop.SAPbobsCOM.dll
+C:\Users\USER\Documents\SAP\_svn peru\ZZX3MNT\InterfaceSB1\branches\2.00.0.0000\Fuentes\Proyecto\iSBO_DA\obj\x86\Release\iSBO_DA.csproj.ResolveComReference.cache
+C:\Users\USER\Documents\SAP\_svn peru\ZZX3MNT\InterfaceSB1\branches\2.00.0.0000\Fuentes\Proyecto\iSBO_DA\obj\x86\Release\iSBO_DA.dll
+C:\Users\USER\Documents\SAP\_svn peru\ZZX3MNT\InterfaceSB1\branches\2.00.0.0000\Fuentes\Proyecto\iSBO_DA\obj\x86\Release\iSBO_DA.pdb
+C:\Users\Public\Documents\SVN\Peru\ZZX3MNT\InterfaceSB1\Fuentes\Proyecto\iSBO_DA\obj\x86\Release\Interop.SAPbobsCOM.dll
+C:\Users\Public\Documents\SVN\Peru\ZZX3MNT\InterfaceSB1\Fuentes\Proyecto\iSBO_DA\obj\x86\Release\iSBO_DA.csproj.ResolveComReference.cache
+C:\Users\Public\Documents\SVN\Peru\ZZX3MNT\InterfaceSB1\Fuentes\Proyecto\iSBO_DA\bin\Release\iSBO_DA.dll
+C:\Users\Public\Documents\SVN\Peru\ZZX3MNT\InterfaceSB1\Fuentes\Proyecto\iSBO_DA\bin\Release\iSBO_DA.pdb
+C:\Users\Public\Documents\SVN\Peru\ZZX3MNT\InterfaceSB1\Fuentes\Proyecto\iSBO_DA\bin\Release\iSBO_BE.dll
+C:\Users\Public\Documents\SVN\Peru\ZZX3MNT\InterfaceSB1\Fuentes\Proyecto\iSBO_DA\bin\Release\iSBO_Util.dll
+C:\Users\Public\Documents\SVN\Peru\ZZX3MNT\InterfaceSB1\Fuentes\Proyecto\iSBO_DA\bin\Release\iSBO_BE.pdb
+C:\Users\Public\Documents\SVN\Peru\ZZX3MNT\InterfaceSB1\Fuentes\Proyecto\iSBO_DA\bin\Release\iSBO_Util.pdb
+C:\Users\Public\Documents\SVN\Peru\ZZX3MNT\InterfaceSB1\Fuentes\Proyecto\iSBO_DA\obj\x86\Release\iSBO_DA.dll
+C:\Users\Public\Documents\SVN\Peru\ZZX3MNT\InterfaceSB1\Fuentes\Proyecto\iSBO_DA\obj\x86\Release\iSBO_DA.pdb

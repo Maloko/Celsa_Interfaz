@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{906A6EB4-A7C2-4958-8EE0-B151F125F50F}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>iSBO_DA</RootNamespace>
+    <AssemblyName>iSBO_DA</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <RegisterForComInterop>false</RegisterForComInterop>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <LangVersion>7.3</LangVersion>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <LangVersion>7.3</LangVersion>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="Articulo_DA.cs" />
+    <Compile Include="CentroCosto_DA.cs" />
+    <Compile Include="Conexiones.cs" />
+    <Compile Include="Empleado_DA.cs" />
+    <Compile Include="OrdenCompra_DA.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Proyecto_DA.cs" />
+    <Compile Include="SalidaMercancia_DA.cs" />
+    <Compile Include="SocioNegocio_DA.cs" />
+    <Compile Include="SolicitudTransferencia_DA.cs" />
+    <Compile Include="TipoCambio_DA.cs" />
+    <Compile Include="UnidadControl_DA.cs" />
+    <Compile Include="Usuario_DA.cs" />
+    <Compile Include="VSSQLFactory.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="iSBO_BE, Version=2.0.0.0, Culture=neutral, processorArchitecture=AMD64">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Entidades\bin\x64\Debug\iSBO_BE.dll</HintPath>
+    </Reference>
+    <Reference Include="iSBO_Util, Version=2.0.0.0, Culture=neutral, processorArchitecture=AMD64">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\iSBO_Util\bin\x64\Debug\iSBO_Util.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\Scripts\00001_HANA.sql" />
+    <EmbeddedResource Include="Resources\Scripts\00001_MSSQL.sql" />
+    <EmbeddedResource Include="Resources\Scripts\00002_HANA.sql" />
+    <EmbeddedResource Include="Resources\Scripts\00002_MSSQL.sql" />
+    <EmbeddedResource Include="Resources\Scripts\00003_HANA.sql" />
+    <EmbeddedResource Include="Resources\Scripts\00003_MSSQL.sql" />
+    <EmbeddedResource Include="Resources\Scripts\00004_HANA.sql" />
+    <EmbeddedResource Include="Resources\Scripts\00004_MSSQL.sql" />
+    <EmbeddedResource Include="Resources\Scripts\00005_HANA.sql" />
+    <EmbeddedResource Include="Resources\Scripts\00005_MSSQL.sql" />
+    <EmbeddedResource Include="Resources\Scripts\00006_HANA.sql" />
+    <EmbeddedResource Include="Resources\Scripts\00006_MSSQL.sql" />
+    <EmbeddedResource Include="Resources\Scripts\00007_HANA.sql" />
+    <EmbeddedResource Include="Resources\Scripts\00007_MSSQL.sql" />
+    <EmbeddedResource Include="Resources\Scripts\00008_HANA.sql" />
+    <EmbeddedResource Include="Resources\Scripts\00008_MSSQL.sql" />
+    <EmbeddedResource Include="Resources\Scripts\00009_HANA.sql" />
+    <EmbeddedResource Include="Resources\Scripts\00009_MSSQL.sql" />
+    <EmbeddedResource Include="Resources\Scripts\00010_HANA.sql" />
+    <EmbeddedResource Include="Resources\Scripts\00010_MSSQL.sql" />
+    <EmbeddedResource Include="Resources\Scripts\00011_HANA.sql" />
+    <EmbeddedResource Include="Resources\Scripts\00011_MSSQL.sql" />
+    <EmbeddedResource Include="Resources\Scripts\00012_HANA.sql" />
+    <EmbeddedResource Include="Resources\Scripts\00012_MSSQL.sql" />
+    <EmbeddedResource Include="Resources\Scripts\00013_HANA.sql" />
+    <EmbeddedResource Include="Resources\Scripts\00013_MSSQL.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\Scripts\00014_HANA.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\Scripts\00014_MSSQL.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="SAPbobsCOM">
+      <Guid>{FC8030BE-F5D2-4B8E-8F92-44228FE30100}</Guid>
+      <VersionMajor>10</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\Scripts\00015_MSSQL.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\Scripts\00015_HANA.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\Scripts\00017_HANA.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\Scripts\00017_MSSQL.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\Scripts\00016_HANA.sql" />
+    <Content Include="Resources\Scripts\00016_MSSQL.sql" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

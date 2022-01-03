@@ -1,0 +1,1 @@
+﻿CALL "VS_SP_ListaUnidadControlxTipoSAP"('${param1}')

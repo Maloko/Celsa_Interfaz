@@ -1,0 +1,1 @@
+﻿CALL "VS_SP_ListaProyectosSAP" ('${param1}', '${param2}')

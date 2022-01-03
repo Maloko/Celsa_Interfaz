@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Logs>
+  <Log>
+    <Tipo>Log_Error</Tipo>
+    <Ruta>C:/Log_SAP/</Ruta>    
+    <NombreArchivo>ErrorBL.XML</NombreArchivo>
+  </Log>
+  <Log>
+    <Tipo>Log_SAP</Tipo>
+    <Ruta>C:/Log_SAP/</Ruta>   
+    <NombreArchivo>LogInterfazMTTO.XML</NombreArchivo>
+  </Log>
+</Logs>

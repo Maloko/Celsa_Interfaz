@@ -1,0 +1,1 @@
+﻿SELECT "PrcCode", "PrcName", "DimCode" FROM OPRC WHERE DimCode = ${param1}
