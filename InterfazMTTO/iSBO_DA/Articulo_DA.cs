@@ -316,7 +316,7 @@ namespace InterfazMTTO.iSBO_DA
                 {
                     BERPTA EstadoConsulta = new BERPTA();
 
-                    string query = "SELECT \"ItemCode\",\"WhsCode\" FROM OITW WHERE \"ItemCode\"='" + idArticulo+"' AND \"WhsCode\" IN('"+almacenSalida+"','"+almacenEntrada+"')";
+                    string query = "SELECT \"ItemCode\",\"WhsCode\",\"OnHand\" FROM OITW WHERE \"ItemCode\"='" + idArticulo+"' AND \"WhsCode\" IN('"+almacenSalida+"','"+almacenEntrada+"')";
                     Result = Conexion.EjecutarRecordSet(query, ref EstadoConsulta);
 
                     Respuesta.ResultadoRetorno = EstadoConsulta.ResultadoRetorno;
@@ -336,6 +336,7 @@ namespace InterfazMTTO.iSBO_DA
 
                             oitw.CodigoArticulo = Result.Fields.Item("ItemCode").Value.ToString();
                             oitw.WhsCode = Result.Fields.Item("WhsCode").Value.ToString();
+                            oitw.OnHand = Convert.ToDecimal(Result.Fields.Item("OnHand").Value.ToString());
                             oitwList.Add(oitw);
                             Result.MoveNext();
 

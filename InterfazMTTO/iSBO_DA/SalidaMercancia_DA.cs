@@ -37,17 +37,18 @@ namespace InterfazMTTO.iSBO_DA
                     foreach (BEIGE1 DetSalida in IGE1)
                     {
                         DocSalidaM_Lineas.SetCurrentLine(i);
-                        DocSalidaM_Lineas.UserFields.Fields.Item(iSBO_Util.Constantes.C_NROLINEAORDENTRABAJO).Value = DetSalida.NroLineaOrdenTrabajo;
+                        DocSalidaM_Lineas.UserFields.Fields.Item(iSBO_Util.Constantes.C_NROLINEAORDENTRABAJO).Value = DetSalida.NroLineaOrdenTrabajo.ToString();
                         DocSalidaM_Lineas.ItemCode = DetSalida.CodigoArticulo;
                         DocSalidaM_Lineas.WarehouseCode = DetSalida.AlmacenSalida;
                         DocSalidaM_Lineas.Quantity = DetSalida.CantidadSalida;
                         DocSalidaM_Lineas.UserFields.Fields.Item(iSBO_Util.Constantes.C_TIPOOPERACION).Value = DetSalida.TipoOperacion;
                         DocSalidaM_Lineas.AccountCode = DetSalida.CuentaContable;
-                        DocSalidaM_Lineas.CostingCode = DetSalida.CCosto1;
-                        DocSalidaM_Lineas.CostingCode2 = DetSalida.CCosto2;
-                        DocSalidaM_Lineas.CostingCode3 = DetSalida.CCosto3;
-                        DocSalidaM_Lineas.CostingCode4 = DetSalida.CCosto4;
-                        DocSalidaM_Lineas.CostingCode5 = DetSalida.CCosto5;
+                        if (DetSalida.CCosto1 != null && DetSalida.CCosto1 != "") DocSalidaM_Lineas.CostingCode = DetSalida.CCosto1;
+                        if (DetSalida.CCosto2 != null && DetSalida.CCosto2 != "") DocSalidaM_Lineas.CostingCode2 = DetSalida.CCosto2;
+                        if (DetSalida.CCosto3 != null && DetSalida.CCosto3 != "") DocSalidaM_Lineas.CostingCode3 = DetSalida.CCosto3;
+                        if (DetSalida.CCosto4 != null && DetSalida.CCosto4 != "") DocSalidaM_Lineas.CostingCode4 = DetSalida.CCosto4;
+                        if (DetSalida.CCosto5 != null && DetSalida.CCosto5 != "") DocSalidaM_Lineas.CostingCode5 = DetSalida.CCosto5;
+
                         DocSalidaM_Lineas.Add();
                         i++;
                     }

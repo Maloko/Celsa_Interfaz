@@ -8,6 +8,7 @@ namespace InterfazMTTO.iSBO_BE
         private string _CodigoArticulo;
         private double _CostoArticulo;
         private string whsCode;
+        private decimal onHand;
         public string CodigoArticulo
         {
             get { return _CodigoArticulo; }
@@ -20,6 +21,7 @@ namespace InterfazMTTO.iSBO_BE
             set { _CostoArticulo = value; }
         }
         public string WhsCode { get => whsCode; set => whsCode = value; }
+        public decimal OnHand { get => onHand; set => onHand = value; }
     }
 
     public class BEOITWList : List<BEOITW>, ICloneable
